@@ -98,8 +98,5 @@
         });
       });
     </script>
-    <?php
-         var_dump($limits);
-      ?>
   </body>
 </html>
